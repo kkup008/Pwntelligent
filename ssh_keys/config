@@ -1,5 +1,0 @@
-Host github.com
-    HostName github.com
-    User git
-    IdentityFile /d/ssh_keys/id_ed25519
-    UserKnownHostsFile /d/ssh_keys/known_hosts
